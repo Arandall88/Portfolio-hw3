@@ -64,16 +64,12 @@ class Header extends Component {
 
         <div className="row banner">
           <div className="banner-text">
-            <h1 className="responsive-headline">
-              Hi I'm {"Angelica R. Randall"}.
-            </h1>
+            <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>
-              I'm an {"Atlanta"} based{" "}
-              <span>{"Junior Full Stack Software and Web Developer"}</span>.{" "}
-              {
-                " I am extremely creative with an attention to detail, I love people, and I can get along with anyone."
-              }
-              .
+              I'm a <span>{city}</span> based <span>{occupation}</span>,
+              {description}
+              <span>{employer}</span> where I work as a
+              <span> {jobDescription}</span>.
             </h3>
             <hr />
             <ul className="social">{networks}</ul>
