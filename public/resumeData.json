@@ -78,31 +78,31 @@
         "title":"Music Boxx",
         "category":"Music App",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/Arandall88/MusicBoxx"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Looksie",
+        "category":"A destination wishlist app",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/Arandall88/Project-2"
       },
       {
-        "title":"Original Thai Food",
+        "title":"Password Generator",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/Arandall88/password-generator"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Google Docs Resume",
+        "category":"Resume",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://docs.google.com/document/d/1s-8qy_cqgqDrhWjOb2U998N8OManvoBc5318uyIQpLQ/edit?usp=sharing"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Note_Taker",
+        "category":"A note taking app",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://github.com/Arandall88/note-taker"
       }
     ]
   },
