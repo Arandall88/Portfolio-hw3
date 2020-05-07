@@ -19,13 +19,8 @@
 
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/angelica-randall/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -90,7 +85,7 @@
         "title":"Password Generator",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/Arandall88/password-generator.git"
       },
       {
         "title":"Resume Website",
@@ -100,6 +95,12 @@
       },
       {
         "title":"Portfolio Update",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"https://github.com/Arandall88/Portfolio-update.git"
+      },
+      {
+        "title":"Looksie",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"smirkspace.jpg",
         "url":"https://github.com/Arandall88/Portfolio-update.git"
