@@ -1,15 +1,15 @@
 {
   "main": {
     "name": "Angelica R. Randall",
-    "occupation": "Junior Software and Web Developer",
-    "description": "I am a Junior Developer currently attending Bootcamp. Eager to learn the trade, and always open to suggestions.",
+    "occupation": "Full Stack Flex Software Engineer and Web Developer",
+    "description": " I enjoy designing the front end UI as well as the back end. My imagination and my attitude, I believe, are an amazing asset to any company. I love finding solutions to any problem. It's my thing.",
     "image": "profilepic.jpg",
     "bio": "I am new to the field of developing, but I am always eager to learn so that I can sharpen my skills. I hope to secure a remote job.",
     "contactmessage": "Thank You for Visiting.",
     "email": "drivenbysuccess21@gmail.com",
     "phone": "559-817-9094",
     "address": {
-      "city": "Atlanta",
+      "city": "Atlanta, Ga",
       "state": "Georgia",
       "zip": "30331"
     },
@@ -29,12 +29,12 @@
     ]
   },
   "resume": {
-    "skillmessage": "Junior Full Stack Developer",
+    "skillmessage": " Full Stack Flex Software Engineer Web Developer",
     "education": [
       {
         "school": "Georgia Tech Coding Bootcamp",
         "graduated": "May 2020",
-        "description": "Full Stack Software and Web Developing"
+        "description": "Full Stack Software Engineering and Web Development"
       },
       {
         "school": "Georgia State 2010-2013",
@@ -44,8 +44,7 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "100%"
+        "name": "Git"
       },
       {
         "name": "ReactJs",
