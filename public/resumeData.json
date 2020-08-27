@@ -77,24 +77,6 @@
         "category": "A destination wishlist app",
         "image": "fury-fighting-gear.jpg",
         "url": "https://github.com/Arandall88/Project-2"
-      },
-      {
-        "title": "Password Generator",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "https://github.com/Arandall88/password-generator"
-      },
-      {
-        "title": "Day Planner",
-        "category": "Day Planner",
-        "image": "resume-website.jpg",
-        "url": "https://github.com/Arandall88/day-planner"
-      },
-      {
-        "title": "Note_Taker",
-        "category": "A note taking app",
-        "image": "smirkspace.jpg",
-        "url": "https://github.com/Arandall88/note-taker"
       }
     ]
   },

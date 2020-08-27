@@ -108,7 +108,7 @@ class Contact extends Component {
                 <br />
                 {street} <br />
                 {email} <br />
-                {city}, {state} {zip}
+                {city}, {state}{zip}  <br />
                 <br />
                 <span>{phone}</span>
               </p>
