@@ -44,24 +44,91 @@
     ],
     "skills": [
       {
-        "name": "Git"
+        "name": "Git",
+        "level":"90%"
+
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "90%"
       },
       {
         "name": "CSS",
-        "level": "75%"
+        "level": "90%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "99%"
       },
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level":"99%"
+      },
+      {
+        "name": "Web APIs",
+        "level":"80%"
+      },
+      {
+        "name": "Third Party APIs",
+        "level":"80%"
+      },
+      {
+        "name": "Server Side APIs",
+        "level":"80%"
+      },
+      {
+        "name": "NodeJs",
+        "level":"90%"
+      },
+      {
+        "name": "OOP",
+        "level":"99%"
+      },
+      {
+        "name": "Bootstrap",
+        "level":"99%"
+      },
+      {
+        "name": "Express",
+        "level":"99%"
+      },
+      {
+        "name": "MySQL",
+        "level":"99%"
+      },
+      {
+        "name": "MVC",
+        "level":"99%"
+      },
+      {
+        "name": "noSQL",
+        "level":"99%"
+      },
+      {
+        "name": "PWA",
+        "level":"99%"
+      },
+      {
+        "name": "React",
+        "level":"99%"
+      },
+      {
+        "name": "State",
+        "level":"99%"
+      },
+      {
+        "name": "MERN",
+        "level":"99%"
+      },
+      {
+        "name": "Computer Science",
+        "level":"99%"
       }
+      
     ]
   },
   "portfolio": {
@@ -74,9 +141,21 @@
       },
       {
         "title": "Looksie",
-        "category": "A destination wishlist app",
+        "category": "A destination wishlist app(in progress)",
         "image": "fury-fighting-gear.jpg",
         "url": "https://github.com/Arandall88/Project-2"
+      },
+      {
+        "title": "Helperz",
+        "category": "Volunteer Food Pantry Delivery App. (in progress)",
+        "image": "helperz.jpg",
+        "url": "https://heelperz.herokuapp.com/"
+      },
+      {
+        "title": "Dionysus & Company",
+        "category": "All Natural Hair Care Products. (in progress)",
+        "image": "dionysus.jpg",
+        "url": "https://arandall88.github.io/Dionysus/"
       }
     ]
   },
