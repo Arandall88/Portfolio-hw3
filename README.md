@@ -4,7 +4,7 @@
 ## Description
 This is a ReactJS based personal resume website template. I have modified and added my own information to. 
 
-## Link to my resume https://docs.google.com/document/d/1xZBmJsLH61SkpkO7lnvd1C3PjQ8fiARHX_XHFKt5bfY/edit?usp=sharing
+## Link to my resume https://docs.google.com/document/d/1EQU0I64jlU-QMWzRXfirZePfm2K8FCOKuv7Id1r6FAU/edit?usp=sharing
 
 ## Link to Deployed App https://serene-everglades-81962.herokuapp.com/
 
