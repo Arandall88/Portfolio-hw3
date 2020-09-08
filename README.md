@@ -1,5 +1,5 @@
 # Professional Portfolio     
-![portfolio-screenshot](https://user-images.githubusercontent.com/59499644/81363800-c9ef5700-90a9-11ea-9623-8892ce4efed0.jpg)
+![portfolio-screenshot (2)](https://user-images.githubusercontent.com/59499644/92532403-d3becd80-f1f5-11ea-99f5-5a3674016d29.jpg)
 
 ## Description
 This is a ReactJS based personal resume website template. I have modified and added my own information to. 
