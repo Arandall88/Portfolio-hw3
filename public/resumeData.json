@@ -45,8 +45,7 @@
     "skills": [
       {
         "name": "Git",
-        "level":"90%"
-
+        "level": "90%"
       },
       {
         "name": "ReactJs",
@@ -66,97 +65,91 @@
       },
       {
         "name": "Bootstrap",
-        "level":"99%"
+        "level": "99%"
       },
       {
         "name": "Web APIs",
-        "level":"80%"
+        "level": "80%"
       },
       {
         "name": "Third Party APIs",
-        "level":"80%"
+        "level": "80%"
       },
       {
         "name": "Server Side APIs",
-        "level":"80%"
+        "level": "80%"
       },
       {
         "name": "NodeJs",
-        "level":"90%"
+        "level": "90%"
       },
       {
         "name": "OOP",
-        "level":"80%"
+        "level": "80%"
       },
       {
         "name": "Bootstrap",
-        "level":"95%"
+        "level": "95%"
       },
       {
         "name": "Express",
-        "level":"75%"
+        "level": "75%"
       },
       {
         "name": "MySQL",
-        "level":"80%"
+        "level": "80%"
       },
       {
         "name": "MVC",
-        "level":"99%"
+        "level": "99%"
       },
       {
         "name": "noSQL",
-        "level":"80%"
+        "level": "80%"
       },
       {
         "name": "PWA",
-        "level":"80%"
+        "level": "80%"
       },
       {
         "name": "React",
-        "level":"80%"
+        "level": "80%"
       },
       {
         "name": "State",
-        "level":"80"
+        "level": "80"
       },
       {
         "name": "MERN",
-        "level":"90%"
+        "level": "90%"
       },
       {
         "name": "Computer Science",
-        "level":"99%"
+        "level": "99%"
       }
-      
     ]
   },
   "portfolio": {
     "projects": [
       {
         "title": "Music Boxx",
-        "category": "Music App",
+        "category": "Users can Learn cool facts about their favorite artists and find out where they're playing next.(In Progress)Node.js",
         "image": "canadian-wanderlust.jpg",
         "url": "https://arandall88.github.io/MusicBoxx/"
       },
       {
         "title": "Looksie",
-        "category": "A destination wishlist app(in progress)",
+        "category": "Users Pick a vacation destination and plan their dream trip!(in progress)Express, Node.js",
         "image": "fury-fighting-gear.jpg",
         "url": "https://github.com/Arandall88/Project-2"
       },
       {
         "title": "Helperz",
-        "category": "Volunteer Food Pantry Delivery App. (in progress)",
+        "category": "Users Volunteer to deliver food pantry items to those in need or Request a delivery.Full Stack App",
         "image": "helperz.jpg",
         "url": "https://heelperz.herokuapp.com/"
-      },
-      {
-        "title": "Dionysus & Company",
-        "category": "All Natural Hair Care Products. (in progress)",
-        "image": "dionysus.jpg",
-        "url": "https://arandall88.github.io/Dionysus/"
       }
+      
     ]
   },
   "testimonials": {
