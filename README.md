@@ -1,10 +1,10 @@
 # Professional Portfolio     
-![portfolio-screenshot](https://user-images.githubusercontent.com/59499644/81363800-c9ef5700-90a9-11ea-9623-8892ce4efed0.jpg)
+![portfolio-screenshot (2)](https://user-images.githubusercontent.com/59499644/92532403-d3becd80-f1f5-11ea-99f5-5a3674016d29.jpg)
 
 ## Description
 This is a ReactJS based personal resume website template. I have modified and added my own information to. 
 
-## Link to my resume https://docs.google.com/document/d/1xZBmJsLH61SkpkO7lnvd1C3PjQ8fiARHX_XHFKt5bfY/edit?usp=sharing
+## Link to my resume https://docs.google.com/document/d/1EQU0I64jlU-QMWzRXfirZePfm2K8FCOKuv7Id1r6FAU/edit?usp=sharing
 
 ## Link to Deployed App https://serene-everglades-81962.herokuapp.com/
 
